@@ -9,3 +9,11 @@
 **Link(s) to work**: [Calculator App](http://www.example.com) -->
 
 ### Day 1: March 3, 2020
+
+**Today's Progress**: Created Pixies webapp to learn touch/mouse events
+
+**Thoughts:** Learned how to track touch/mouse events in the browser, along with some simple ways to detect the type of inputs available. Got some good practice creating gradients, shadows, and animations.
+
+**Link(s) to work**:
+- [Pixies (Github)](https://github.com/gotylergo/pixies)
+- [Pixies (Live)](https://tylerjustyn.dev/app/100daysofcode/pixies/)
