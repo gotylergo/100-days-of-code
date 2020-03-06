@@ -26,3 +26,11 @@
 
 **Link(s) to work**:
 - [Hello-PHP-World (Github)](https://github.com/gotylergo/hello-php-world)
+
+### Day 3: March 5, 2020
+
+**Today's Progress**: Completed Learn-PHP.org
+
+**Thoughts**: *Note: Didn't realize that tutorials were against the rules until I was almost complete, but I do feel like this was really helpful.* It has reminded me that learning Javascript has made it a lot easier for me understand other object oriented languages. I was surprised at how similar writing PHP feels to writing Javascript, at least at a basic level. 
+
+**Link(s) to tutorial**: (learn-php.org/)[https://www.learn-php.org/]
