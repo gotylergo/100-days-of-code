@@ -34,3 +34,11 @@
 **Thoughts**: *Note: Didn't realize that tutorials were against the rules until I was almost complete, but I do feel like this was really helpful.* It has reminded me that learning Javascript has made it a lot easier for me understand other object oriented languages. I was surprised at how similar writing PHP feels to writing Javascript, at least at a basic level. 
 
 **Link(s) to tutorial**: (learn-php.org/)[https://www.learn-php.org/]
+
+## Day 4: March 6, 2020
+
+**Today's Progress**: Started a new project called sentence-generator
+
+**Thoughts**: This was just a fun project idea I found in one of the many lists on Reddit that's simple, but has a lot of room for advancements. I didn't have a lot of time to code today, but I wanted to make sure I got to at least code something before the day was done.
+
+**Link(s) to work**: [sentence-generator (Github)[https://github.com/gotylergo/sentence-generator]
