@@ -42,3 +42,13 @@
 **Thoughts**: This was just a fun project idea I found in one of the many lists on Reddit that's simple, but has a lot of room for advancements. I didn't have a lot of time to code today, but I wanted to make sure I got to at least code something before the day was done.
 
 **Link(s) to work**: [sentence-generator (Github)[https://github.com/gotylergo/sentence-generator]
+
+### Day 5: March 7, 2020
+
+**Today's Progress**: Added a hover effect to each letter in Pixies
+
+**Thoughts**: Got some more practice in CSS transitions and targetting individual parts (characters) of elements using Javascript.
+
+**Link(s) to work**:
+- [Pixies (Github)](https://github.com/gotylergo/pixies)
+- [Pixies (Live)](https://tylerjustyn.dev/app/100daysofcode/pixies/)
