@@ -52,3 +52,15 @@
 **Link(s) to work**:
 - [Pixies (Github)](https://github.com/gotylergo/pixies)
 - [Pixies (Live)](https://tylerjustyn.dev/app/100daysofcode/pixies/)
+
+### Day 6: March 8, 2020
+
+**Today's Progress**: Completed a Hackerrank Assessment
+
+**Thoughts**: Realizing that I could use some more practice solving these types of challenges to strengthen my problem solving abilities. Planning to do more.
+
+<!-- ### Day 7: March 9, 2020
+
+**Today's Progress**: 
+
+**Thoughts**:  -->
