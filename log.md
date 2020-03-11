@@ -35,7 +35,7 @@
 
 **Link(s) to tutorial**: (learn-php.org/)[https://www.learn-php.org/]
 
-## Day 4: March 6, 2020
+### Day 4: March 6, 2020
 
 **Today's Progress**: Started a new project called sentence-generator
 
@@ -59,8 +59,20 @@
 
 **Thoughts**: Realizing that I could use some more practice solving these types of challenges to strengthen my problem solving abilities. Planning to do more.
 
-<!-- ### Day 7: March 9, 2020
+### Day 7: March 9, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Started Hackerrank Interview Preperation Kit (Warm-up Challenges: Sock Merchant)
 
-**Thoughts**:  -->
+**Thoughts**: Struggling with this one, but taking it one step at a time. In practice, I do well at making my code work, but when it comes to challenges like this, I struggle. It motivates me to practice because I know in the end it will make me a better coder.
+
+**Link(s) to challenge**:
+- [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+
+### Day 8: March 10, 2020
+
+**Today's Progress**: Hackerrank Interview Preperation Kit (Warm-up Challenges: Sock Merchant)
+
+**Thoughts**: Still struggling with this one. I've gotten my solution to pass 3 tests, but still failing the other 6 and I'm not sure why. Not giving up though!
+
+**Link(s) to challenge**:
+- [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
