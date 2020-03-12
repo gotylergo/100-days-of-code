@@ -74,5 +74,12 @@
 
 **Thoughts**: Still struggling with this one. I've gotten my solution to pass 3 tests, but still failing the other 6 and I'm not sure why. Not giving up though!
 
-**Link(s) to challenge**:
-- [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
+**Link(s) to work**: [Sock Merchant](https://codepen.io/gotylergo/pen/VwLQVQa)
+
+### Day 9: March 11, 2020
+
+**Today's Progress**: Hackerrank Interview Preperation Kit (Warm-up Challenges: Counting Valleys)
+
+**Thoughts**: Took a break from Sock Merchant to work on the next Hackerrank challenge: Counting Valleys. I feel like I had a better time getting started on this one which means I'm getting better at planning my approach before I start coding.
+
+**Link(s) to work**: [Counting Valleys](https://codepen.io/gotylergo/pen/jOPZvQO)
