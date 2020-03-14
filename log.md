@@ -83,3 +83,13 @@
 **Thoughts**: Took a break from Sock Merchant to work on the next Hackerrank challenge: Counting Valleys. I feel like I had a better time getting started on this one which means I'm getting better at planning my approach before I start coding.
 
 **Link(s) to work**: [Counting Valleys](https://codepen.io/gotylergo/pen/jOPZvQO)
+
+### Day 10: March 13, 2020
+
+**Today's Progress**: Added a device orientation event
+
+**Thoughts**: This is my first time attempting to use the deviceorientation event along with the transform CSS property to alter an element when a device is moved along its axis. While a fun a effect, since browser support is still spotty, this is probably best served for nonessential effects to add some flash.
+
+**Link(s) to work**:
+- [Pixies (Github)](https://github.com/gotylergo/pixies)
+- [Pixies (Live)](https://tylerjustyn.dev/app/100daysofcode/pixies/)
