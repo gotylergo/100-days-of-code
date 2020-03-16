@@ -86,9 +86,29 @@
 
 ### Day 10: March 13, 2020
 
-**Today's Progress**: Added a device orientation event
+**Today's Progress**: Added a device orientation event (Pixies)
 
 **Thoughts**: This is my first time attempting to use the deviceorientation event along with the transform CSS property to alter an element when a device is moved along its axis. While a fun a effect, since browser support is still spotty, this is probably best served for nonessential effects to add some flash.
+
+**Link(s) to work**:
+- [Pixies (Github)](https://github.com/gotylergo/pixies)
+- [Pixies (Live)](https://tylerjustyn.dev/app/100daysofcode/pixies/)
+
+### Day 11: March 14, 2020
+
+**Today's Progress**: Fix DeviceOrientationEvent on Android (Pixies)
+
+**Thoughts**: Took a bit of tweaking to get this working on Android (and had to realize that I was loading a cached version and that the event requires HTTPS). Looks like iOS will require a button to request permission before using the sensor, so I'll work on that in another commit.
+
+**Link(s) to work**:
+- [Pixies (Github)](https://github.com/gotylergo/pixies)
+- [Pixies (Live)](https://tylerjustyn.dev/app/100daysofcode/pixies/)
+
+### Day 12: March 15, 2020
+
+**Today's Progress**: Fix DeviceOrientationEvent on iOS (Pixies)
+
+**Thoughts**: Got to learn a bit about requesting permission since it's required in new iOS versions which is pretty cool. 
 
 **Link(s) to work**:
 - [Pixies (Github)](https://github.com/gotylergo/pixies)
